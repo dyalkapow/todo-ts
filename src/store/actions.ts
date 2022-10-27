@@ -32,9 +32,9 @@ export const actions: ActionTree<State, State> & Actions = {
       },
       {
         id: 2,
-        text: 'Completed',
-        isCompleted: true
-      }
+        text: "Completed",
+        isCompleted: true,
+      },
     ]);
   },
 };
